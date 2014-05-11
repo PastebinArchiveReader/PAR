@@ -12,23 +12,23 @@ Example :
 or <code>python PAR.py  .txt</code> to download all files from http://pastebin.com/archive/ ...
 
 Here's the full list :
-<code>
-bash,
-c,
-csharp,
-cpp,
-css,
-html,
-html5,
-java,
-javascript,
-lua,
-text,
-objc,
-perl,
-php,
-python,
-rails
-</code>
+<ul>
+<li>bash</li>
+c</li>
+csharp</li>
+<li>cpp</li>
+<li>css</li>
+<li>html</li>
+<li>html5</li>
+<li>java</li>
+<li>javascript</li>
+<li>lua</li>
+<li>text</li>
+<li>objc</li>
+<li>perl</li>
+<li>php</li>
+<li>python</li>
+<li>rails</li>
+</ul>
 
 <h4>Warning !</h4> Files are downloaded in the script directory, so don't run it on your desktop...
