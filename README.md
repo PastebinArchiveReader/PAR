@@ -8,10 +8,10 @@ P.A.R is a Python script that reads and downloads all files from Pastebin.com. Y
 <code>python PAR.py programming_language_name files_extension</code>
 
 Example : 
-<code>python PAR.py python .py</code> to download all Python files from http://pastebin.com/archive/python 
+<code>python PAR.py python .py etc/user/anon/scripts</code> to download all Python files from http://pastebin.com/archive/python 
 or
 
-<code>python PAR.py / .txt</code> to download all files from http://pastebin.com/archive/
+<code>python PAR.py / .txt C:/users/anon/Desktop/scripts/</code> to download all files from http://pastebin.com/archive/
 
 <h5>/!\</h5>
 <ul>
