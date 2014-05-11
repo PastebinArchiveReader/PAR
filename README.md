@@ -13,24 +13,6 @@ or
 
 <code>python PAR.py / .txt</code> to download all files from http://pastebin.com/archive/
 
-Here's the full list :
-<ul>
-<li>bash</li>
-<li>c</li>
-<li>csharp</li>
-<li>cpp</li>
-<li>css</li>
-<li>html</li>
-<li>html5</li>
-<li>java</li>
-<li>javascript</li>
-<li>lua</li>
-<li>text</li>
-<li>objc</li>
-<li>perl</li>
-<li>php</li>
-<li>python</li>
-<li>rails</li>
-</ul>
+Consult the drop-down menu of http://pastebin.com/ for mor infos.
 
 <h4>Warning !</h4> Files are downloaded in the script directory, so don't run it on your desktop...
