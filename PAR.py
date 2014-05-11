@@ -11,10 +11,10 @@ import argparse
 import time
 
 # add parsing functionality to provide files
-parser = argparse.ArgumentParser(description="Script to download pastebin archives",
+parser = argparse.ArgumentParser(description="Script to download pastebin.com archives",
                                  epilog='''You can download different archives from pastebin.com with this script.
                                  Simply specify a language, extension and path.''')
-parser.add_argument("-l", "--language", dest="language", help="specify the language",
+parser.add_argument("-l", "--language", dest="language", help="specify the programming language",
                     metavar="python, csharp, cpp, etc.")
 parser.add_argument("-e", "--extension", dest="extension", help="file extension of the language",
                     metavar="extension")
