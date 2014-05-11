@@ -14,8 +14,8 @@ or <code>python PAR.py  .txt</code> to download all files from http://pastebin.c
 Here's the full list :
 <ul>
 <li>bash</li>
-c</li>
-csharp</li>
+<li>c</li>
+<li>csharp</li>
 <li>cpp</li>
 <li>css</li>
 <li>html</li>
