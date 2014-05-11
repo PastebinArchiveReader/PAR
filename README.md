@@ -20,6 +20,6 @@ or
 <li>C# = csharp</li>
 </ul>
 
-Consult http://pastebin.com/ for mor infos.
+Consult http://pastebin.com/ for more infos.
 
 3) Files are being downloaded
