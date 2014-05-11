@@ -31,8 +31,7 @@ while 1:
 
     for link in soup.find_all('a'):
         if len(link.get('href')) == 9:
-            if link.get(
-                    'href') != "/settings":  # "/settings" is just a 9-characters configuration file from Pastebin.com. Pointless.
+            if link.get('href') != "/settings":  # "/settings" is just a 9-characters configuration file from Pastebin.com. Pointless.
                 ID = link.get('href')
                 paste = link.get('href').replace('/', '')
                 paste = "http://www.pastebin.com/raw.php?i=" + paste
