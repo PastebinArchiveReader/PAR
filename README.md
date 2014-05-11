@@ -23,3 +23,8 @@ or
 Consult http://pastebin.com/ for more infos.
 
 3) Files are being downloaded
+
+<h4>Requirements</h4>
+<ul>
+<li>Python-requests ---> http://docs.python-requests.org/en/latest/user/install/#install</li>
+<li>BeautifulSoup ---> http://www.crummy.com/software/BeautifulSoup/#Download</li>
