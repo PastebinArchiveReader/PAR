@@ -5,7 +5,7 @@ P.A.R is a Python script that reads and downloads all files from Pastebin.com. Y
 
 1) Open up your GNU/Linux terminal or your command line in Windows                                                           
 2) Go to the script directory and do :
-<code>python PAR.py the_language_archive_you_want_to_download the_extension_of_your_files</code>
+<code>python PAR.py programming_language_name files_extension</code>
 
 Example : 
 <code>python PAR.py python .py</code> to download all Python files from http://pastebin.com/archive/python 
@@ -13,6 +13,10 @@ or
 
 <code>python PAR.py / .txt</code> to download all files from http://pastebin.com/archive/
 
-Consult the drop-down menu of http://pastebin.com/ for mor infos.
+<h5>/!\</h5>
+C++ = cpp
+C# = csharp
+
+Consult http://pastebin.com/ for mor infos.
 
 <h4>Warning !</h4> Files are downloaded in the script directory, so don't run it on your desktop...
