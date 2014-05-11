@@ -12,7 +12,7 @@ Example :
 
 or
 
-<code>python PAR.py / .txt C:/users/anon/Desktop/scripts/</code> to download all files from http://pastebin.com/archive/
+<code>python PAR.py / .txt C:/users/anon/Desktop/PAR/</code> to download all files from http://pastebin.com/archive/
 
 <h5>/!\</h5>
 <ul>
