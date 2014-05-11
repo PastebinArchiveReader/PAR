@@ -20,5 +20,3 @@ or
 </ul>
 
 Consult http://pastebin.com/ for mor infos.
-
-<h4>Warning !</h4> Files are downloaded in the script directory, so don't run it on your desktop...
