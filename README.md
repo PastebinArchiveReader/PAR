@@ -14,7 +14,7 @@ or
 
 <code>python PAR.py / .txt C:/users/anon/Desktop/files/</code> to download all files from http://pastebin.com/archive/
 
-<h5>/!\</h5>
+<h4>/!\</h4>
 <ul>
 <li>C++ = cpp</li>
 <li>C# = csharp</li>
