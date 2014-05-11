@@ -14,6 +14,8 @@ or
 
 <code>python PAR.py -l /  -e .txt -p C:/users/anon/Desktop/files/</code> to download all files from http://pastebin.com/archive/
 
+You can also try <code>python PAR.py --help</code>
+
 <h4>/!\</h4>
 <ul>
 <li>C++ = cpp</li>
