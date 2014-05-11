@@ -14,8 +14,10 @@ or
 <code>python PAR.py / .txt</code> to download all files from http://pastebin.com/archive/
 
 <h5>/!\</h5>
-C++ = cpp
-C# = csharp
+<ul>
+<li>C++ = cpp</li>
+<li>C# = csharp</li>
+</ul>
 
 Consult http://pastebin.com/ for mor infos.
 
