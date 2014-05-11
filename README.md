@@ -30,3 +30,5 @@ php,
 python,
 rails
 </code>
+
+<h2>Warning !<h2> Files are downloaded in the script directory, so don't run it on your desktop...
