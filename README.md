@@ -28,3 +28,4 @@ Consult http://pastebin.com/ for more infos.
 <ul>
 <li>Python-requests ---> http://docs.python-requests.org/en/latest/user/install/#install</li>
 <li>BeautifulSoup ---> http://www.crummy.com/software/BeautifulSoup/#Download</li>
+</ul>
