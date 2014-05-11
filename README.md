@@ -12,7 +12,7 @@ Example :
 or <code>python PAR.py  .txt</code> to download all files from http://pastebin.com/archive/ ...
 
 Here's the full list :
-
+<code>
 bash
 
 c
@@ -44,3 +44,4 @@ php
 python
 
 rails
+</code>
