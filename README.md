@@ -21,3 +21,5 @@ or
 </ul>
 
 Consult http://pastebin.com/ for mor infos.
+
+3) Files are being downloaded
