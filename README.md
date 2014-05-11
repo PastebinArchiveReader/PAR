@@ -13,20 +13,20 @@ or <code>python PAR.py  .txt</code> to download all files from http://pastebin.c
 
 Here's the full list :
 <code>
-bash
-c
-csharp
-cpp
-css
-html
-html5
-java
-javascript
-lua
-text
-objc
-perl
-php
-python
-rails
+bash,
+c,
+csharp,
+cpp,
+css,
+html,
+html5,
+java,
+javascript,
+lua,
+text,
+objc,
+perl,
+php,
+python,
+rails,
 </code>
