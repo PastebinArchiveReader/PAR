@@ -28,5 +28,5 @@ objc,
 perl,
 php,
 python,
-rails,
+rails
 </code>
